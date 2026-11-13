@@ -33,7 +33,7 @@ The main objective of this coursework was to strengthen Python programming funda
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/gasolineee/Python-Core-Coursework.git
+   git clone https://github.com/daukaaa17/Python-Core-Coursework.git
    ```
 
 2. Open the required exercise or Python file.
