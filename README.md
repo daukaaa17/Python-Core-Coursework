@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains Python programming exercises and practical assignments completed as part of software development coursework.
+This repository contains Python programming exercises and practical assignments completed as part of the EPAM Data Software Engineering Trainee programme (Oct 2024 – Feb 2025) coursework.
 
 The exercises cover fundamental Python concepts, problem-solving techniques, and object-oriented programming.
 
